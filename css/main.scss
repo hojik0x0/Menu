@@ -219,3 +219,613 @@
         font-family: sans-serif;
     }
 }
+.menu{
+    .text{
+        img{
+            position: relative;
+            top: 1400px;
+            width: 1330px;
+        }
+        h1{
+            position: absolute;
+            top: 2600px;
+            font-family: sans-serif;
+            font-size: 50px;
+            left: 35%;
+            color:rgb(91, 175, 175);
+        }
+        p{
+            position: absolute;
+            top: 2700px;
+            font-family: sans-serif;
+            font-size: 20px;
+            left: 30%;
+            text-align: center;
+        }
+        a{
+            color: rgb(91, 175, 175);;
+        }
+        button#b1{
+            padding: 15px 45px;
+            position: absolute;
+            top: 2830px;
+            left: 440px;
+            background-color: white;
+            border:1px solid grey;
+            border-radius: 5px;
+            color:black;
+            font-family: sans-serif;
+        }
+        button#b2{
+            padding: 15px 45px;
+            position: absolute;
+            top: 2830px;
+            left: 640px;
+            background-color: white;
+            border:1px solid grey;
+            border-radius: 5px;
+            color:black;
+            font-family: sans-serif;
+        }
+        button#b3{
+            padding: 15px 45px;
+            position: absolute;
+            top: 2830px;
+            left: 840px;
+            background-color: white;
+            border:1px solid grey;
+            border-radius: 5px;
+            color:black;
+            font-family: sans-serif;
+        }
+        button#b1:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b2:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b3:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+    }
+    .menu__cards1{
+        background-color:white;
+        position: relative;
+        top: 900px;
+        left: 100px;
+        width: 500px;
+        border-radius:5px;
+        border: 1px solid rgb(91, 175, 175);
+        padding: 25px;
+
+        h2#p7{
+            position: absolute;
+            top: 15px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 15px;
+            color: rgb(91, 175, 175);
+        }
+        img{
+            border-radius:10px;
+        }
+        h1{
+            position: absolute;
+            top: 5px;
+            left: 170px;
+            font-family: sans-serif;
+            font-size: 25px;
+        }
+        p{
+            position: absolute;
+            top: 50px;
+            left: 170px;
+            font-family: sans-serif;
+        }
+        button#b4{
+            position: absolute;
+            left: 170px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b5{
+            position: absolute;
+            left: 250px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b4:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b5:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+    }
+    .menu__cards2{
+        background-color:white;
+        position: relative;
+        top: 714px;
+        left: 700px;
+        width: 500px;
+        border-radius:5px;
+        border: 1px solid rgb(91, 175, 175);
+        padding: 25px;
+
+        img{
+            border-radius:10px;
+        }
+        h2#p8{
+            position: absolute;
+            top: 15px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 15px;
+            color: rgb(91, 175, 175);
+        }
+        h1{
+            position: absolute;
+            top: 5px;
+            left: 170px;
+            font-family: sans-serif;
+            font-size: 25px;
+        }
+        p{
+            position: absolute;
+            top: 50px;
+            left: 170px;
+            font-family: sans-serif;
+        }
+        button#b6{
+            position: absolute;
+            left: 170px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b7{
+            position: absolute;
+            left: 250px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b6:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b7:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+    }
+    .menu__cards3{
+        background-color:white;
+        position: relative;
+        top: 750px;
+        left: 100px;
+        width: 500px;
+        border-radius:5px;
+        border: 1px solid rgb(91, 175, 175);
+        padding: 25px;
+
+        img{
+            border-radius:10px;
+        }
+        h2#p9{
+            position: absolute;
+            top: 15px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 15px;
+            color: rgb(91, 175, 175);
+        }
+        h1{
+            position: absolute;
+            top: 5px;
+            left: 170px;
+            font-family: sans-serif;
+            font-size: 25px;
+        }
+        p{
+            position: absolute;
+            top: 50px;
+            left: 170px;
+            font-family: sans-serif;
+        }
+        button#b8{
+            position: absolute;
+            left: 170px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b9{
+            position: absolute;
+            left: 250px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b8:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b9:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+    }
+    .menu__cards4{
+        background-color:white;
+        position: relative;
+        top: 565px;
+        left: 700px;
+        width: 500px;
+        border-radius:5px;
+        border: 1px solid rgb(91, 175, 175);
+        padding: 25px;
+
+        img{
+            border-radius:10px;
+        }
+        h2#p10{
+            position: absolute;
+            top: 15px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 15px;
+            color: rgb(91, 175, 175);
+        }
+        h1{
+            position: absolute;
+            top: 5px;
+            left: 170px;
+            font-family: sans-serif;
+            font-size: 25px;
+        }
+        p{
+            position: absolute;
+            top: 50px;
+            left: 170px;
+            font-family: sans-serif;
+        }
+        button#b10{
+            position: absolute;
+            left: 170px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b11{
+            position: absolute;
+            left: 250px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b10:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b11:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+    }
+    .menu__cards5{
+        background-color:white;
+        position: relative;
+        top: 600px;
+        left: 100px;
+        width: 500px;
+        border-radius:5px;
+        border: 1px solid rgb(91, 175, 175);
+        padding: 25px;
+
+        img{
+            border-radius:10px;
+        }
+        h2#p11{
+            position: absolute;
+            top: 15px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 15px;
+            color: rgb(91, 175, 175);
+        }
+        h1{
+            position: absolute;
+            top: 5px;
+            left: 170px;
+            font-family: sans-serif;
+            font-size: 25px;
+        }
+        p{
+            position: absolute;
+            top: 50px;
+            left: 170px;
+            font-family: sans-serif;
+        }
+        button#b12{
+            position: absolute;
+            left: 170px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b13{
+            position: absolute;
+            left: 250px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b12:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b13:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+    }
+    .menu__cards6{
+        background-color:white;
+        position: relative;
+        top: 417px;
+        left: 700px;
+        width: 500px;
+        border-radius:5px;
+        border: 1px solid rgb(91, 175, 175);
+        padding: 25px;
+
+        img{
+            border-radius:10px;
+        }
+        h2#p12{
+            position: absolute;
+            top: 15px;
+            left: 450px;
+            font-family: sans-serif;
+            font-size: 15px;
+            color: rgb(91, 175, 175);
+        }
+        h1{
+            position: absolute;
+            top: 5px;
+            left: 170px;
+            font-family: sans-serif;
+            font-size: 25px;
+        }
+        p{
+            position: absolute;
+            top: 50px;
+            left: 170px;
+            font-family: sans-serif;
+        }
+        button#b14{
+            position: absolute;
+            left: 170px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b15{
+            position: absolute;
+            left: 250px;
+            font-family: sans-serif;
+            top: 120px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 10px 30px;
+            border-radius:5px;
+        }
+        button#b14:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+        button#b15:hover{
+            background-color: rgb(91, 175, 175);
+            color: white;
+        }
+    }
+    button#b16{
+        position: absolute;
+        left: 600px;
+        font-family: sans-serif;
+        top: 3650px;
+        background-color: white;
+        color:black;
+        border: 1px solid grey;
+        padding: 15px 40px;
+        border-radius:5px;
+    }
+    button#b16:hover{
+        background-color: rgb(91, 175, 175);
+        color: white;
+    }
+}
+.body{
+    img{
+        position: relative;
+        top: 700px;
+        left: 100px;
+    }
+    img#img1{
+        position: absolute;
+        top: 3890px;
+    }
+    h1{
+        position: absolute;
+        top: 4000px;
+        left: 770px;
+        font-size: 50px;
+        font-family: sans-serif;
+        color: rgb(91, 175, 175);
+    }
+    p{
+        position: absolute;
+        top: 4140px;
+        left: 770px;
+        font-family: sans-serif;
+        font-size: 20px;
+        color:rgb(68, 131, 131);
+    }
+    button{
+            position: absolute;
+            left: 770px;
+            font-family: sans-serif;
+            top: 4270px;
+            background-color: white;
+            color:black;
+            border: 1px solid grey;
+            padding: 15px 40px;
+            border-radius:5px;
+            font-size: 15px;
+    }
+    button:hover{
+        background-color: rgb(91, 175, 175);
+        color: white;
+    }
+}
+.two{
+    .two__fon{
+        position: relative;
+        top: 1083px;
+        width: 1330px;
+    }
+    .two__img{
+        position: absolute;
+        left: 750px;
+        top: 5050px;
+    }
+    .two__img2{
+        position: absolute;
+        left: 130px;
+        top: 5050px;
+    }
+    h1{
+        position: absolute;
+        left: 120px;
+        top: 5050px;
+        font-size: 50px;
+        font-family: sans-serif;
+        color:  rgb(91, 175, 175);
+    }
+    p#p13{
+        position: absolute;
+        left: 120px;
+        top: 5250px;
+        color: #8B8C8C;
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+    button{
+        border: 1px solid rgb(91, 175, 175);
+        background-color: white;
+        padding: 15px;
+        position: absolute;
+        border-radius: 5px;
+        height: 50px;
+        width: 160px;
+        color:black;
+        font-family:sans-serif;
+        font-size: 15px;
+        top: 5380px;
+        left: 120px;
+    }
+    button:hover{
+        background-color:rgb(91, 175, 175);
+        color: white;
+    }
+}
+.three{
+    img{
+        position: relative;
+        top: 1150px;
+        width: 660px;
+        height: 520px;
+    }
+    div{
+        background-color:rgb(91, 175, 175);
+        height: 520px;
+        width: 650px;
+        position: relative;
+        top: 626px;
+        left: 690px;
+        h1{
+            position: absolute;
+            top: 100px;
+            font-size: 50px;
+            font-family: sans-serif;
+            left: 55px;
+            color:white;
+        }
+        button{
+            border: 1px solid rgb(91, 175, 175);
+            background-color: white;
+            padding: 15px;
+            position: absolute;
+            border-radius: 5px;
+            height: 50px;
+            width: 160px;
+            color:black;
+            font-family:sans-serif;
+            font-size: 15px;
+            top: 300px;
+            left: 55px;
+        }
+    }
+}
